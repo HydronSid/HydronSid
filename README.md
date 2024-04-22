@@ -27,7 +27,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,androidstudio,js,mongodb,nodejs,npm,firebase,github,git,postman,pr,&perline=7)](https://skillicons.dev)
 
 ![Siddhant Mestry's GitHub stats](https://github-readme-stats.vercel.app/api?username=HydronSid&show_icons=true&theme=dark)
 
@@ -35,4 +35,4 @@
 
 
 <br>
-⭐️ From [axiftaj](https://github.com/axiftaj)
+⭐️ From [HydronSid](https://github.com/HydronSid)
